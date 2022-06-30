@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glaucia Mesquita, I'm pleased that you are here. :) I hope you enjoy my projects.</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- In the last few years of the pandemic, I have been interested in the world of programming and I started studying it. I discovered a new passion. In the last few months, I've dedicated myself to developing my skills as a programmer, I've done both front-end and back-end projects, UX and UI design, wireframe layout, and mockup prototyping. I have worked with agile methodologies, and I have also worked in teams acting as Scrum master and also as Product Manager. I hope that my repositories will be useful to you. 
-I invite you to follow my profile if you want to know about my upcoming projects.
+- In the last few years of the pandemic, I have been interested in the world of programming and I started studying it. I discovered a new passion. In the last few months, I've dedicated myself to developing my skills as a programmer, I've done both front-end and back-end projects, UX and UI design, wireframe layout, and mockup prototyping. I have worked with agile methodologies, and I have also worked in teams acting as Scrum master and also as Product Manager. I hope that my repositories will be useful to you and, I invite you to follow my profile if you want to know about my upcoming projects.
 If you have some questions or curiosity, let me know. ;)
 
 - 🌱 I’m currently learning **front-end frameworks, at moment I started my first project with Vue3**
